@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>大哥，你问我：“你是小白兔吗？”</string>
+		<key>time</key>
+		<string>昨天 19:27</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>可以。。</string>
+		<key>time</key>
+		<string>昨天 19:50</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>你是小白兔吗？</string>
+		<key>time</key>
+		<string>昨天 19:50</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>嗯嗯，我是，你再问我：“你是长颈鹿吗？”。</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>你是长颈鹿吗？</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>傻叉，我都说我是小白兔了，你还问</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>滚！</string>
+		<key>time</key>
+		<string>昨天 20:11</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>你可不可以再问我：“你是小白兔吗？”</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>我错了，我有病</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>那你问我：“你是老中医吗，会治疑难杂症吗？”</string>
+		<key>time</key>
+		<string>昨天 20:17</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>receivedMassage</key>
+		<string>0</string>
+		<key>text</key>
+		<string>滚！滚！滚！</string>
+		<key>time</key>
+		<string>昨天 20:18</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>
